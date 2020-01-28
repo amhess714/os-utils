@@ -1,5 +1,7 @@
 # os-utils
 
+For CSCI 370 classmates - Spring 2019
+
 ## Download Usage
 ```
 os-utils/download.sh <path-to-remote-source> <path-to-local-dest> <username>
