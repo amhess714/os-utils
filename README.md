@@ -1,4 +1,4 @@
-# os-utils
+# operating-systems-course
 
 For CSCI 370 classmates - Spring 2019
 
